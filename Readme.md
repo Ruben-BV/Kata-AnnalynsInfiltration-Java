@@ -1,3 +1,6 @@
+## ----- The four required methods were implemented -----
+</br>
+
 # Annalyn's Infiltration
 
 ## Description
